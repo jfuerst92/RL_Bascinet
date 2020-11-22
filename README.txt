@@ -2,7 +2,7 @@ To run:
 
 clone this repo: https://github.com/jfuerst92/RL_Bascinet
 
-cd Brigandine
+cd RL_Bascinet
 
 pip install -r requirements.txt
 
