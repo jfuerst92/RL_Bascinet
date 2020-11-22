@@ -12,13 +12,6 @@ RIGHT = 2
 UP = 3
 
 
-def score_forest(env, policy, iters):
-    score = 0
-    for iter in range(iters):
-        reward = 0
-        for decision in policy:
-            if decision == 1:
-
 
 
 
